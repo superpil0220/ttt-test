@@ -10,7 +10,9 @@
 1. 번호리스트2
   
 ```java
-public void test() {\n\tlog.info(\"teststststest\", kkk);\n}
+public void test() {
+	log.info("teststststest", kkk);
+}
 ```
   
    
