@@ -1,13 +1,3 @@
-1. 어ㅁㄴㅓㅏㅁ어ㅣ
-1. 2ㅓ라어람ㅓ라너ㅣㅁ아럼니
-1. 라ㅣ머ㅣㅏㅍㅋ추,퍄ㅈ뎓ㅑㅐㅕㅑ
-1. ㅇ러ㄴㅓ라ㅁㅓ라ㅓㄴ
-1. ㄴ어람ㄴㅓㅣㅏ너ㅣ
-1. 너람ㄴㅓㅣㅏㄴㅓ라ㄴ
-1. ㄴㅇ러ㅣㅁㅓ리ㅁㅓㅓ라
-1. ㅁㄴㅓㅏㅁㅓㅏㅁ너ㅏㄴ
-   
-   
 - [ ] 할일1   
 - [x] 할일2   
 jskdfjsdlakfjsdlafjskalfjlksdafjlksdafjklsdajflkdasjfkldjaslfkjsdaklfjsdaklfj
@@ -35,4 +25,4 @@ public void test() {
    
    
 ---
-![이미지 캡션 테스트](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1220e84d-2498-430d-92d5-9f5eac172de4/customize-jenkins.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221116%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221116T023309Z&X-Amz-Expires=3600&X-Amz-Signature=4ecd0093b75f5ba34c6d53e89e5d119ec7d7ac7543224210769c8acf2444e50f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![이미지 캡션 테스트](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1220e84d-2498-430d-92d5-9f5eac172de4/customize-jenkins.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221116%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221116T023407Z&X-Amz-Expires=3600&X-Amz-Signature=939d2f3af83209259a0bb8ea3eabffdc06763c595a402001da922e287a4f13c0&X-Amz-SignedHeaders=host&x-id=GetObject)
